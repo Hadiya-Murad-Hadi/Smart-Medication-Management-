@@ -1,4 +1,4 @@
-# MedTracker
+# Smart Medication Management 
 
 A medication tracking and management system built with Flask and MongoDB.
 
